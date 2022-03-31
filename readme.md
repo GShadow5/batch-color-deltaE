@@ -21,7 +21,6 @@ This program is fairly straight forward to use, however it does not sanitize the
 The first RGB group on line 1 of the csv of the sample data set will be compared to
       the first RGB group on line 1 of the csv of the reference data set.
 
-      {0} - There is only one page
-      {} In the RGBtoLab() function, the variable names in the XYZ to Lab section match the
+In the RGBtoLab() function, the variable names in the XYZ to Lab section match the
       variable names used on http://brucelindbloom.com/index.html?Eqn_RGB_XYZ_Matrix.html
       to make the code implementation more legible.
